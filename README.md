@@ -1,2 +1,2 @@
--  Hi, I’m lizaveta-lv. I am 4th year Computer Science (Mobile Computing) student at Sheridan College, Canada. 
+-  Hi, I’m lizaveta-lv. I am a fresh graduate of Computer Science (Mobile Computing) student at Sheridan College, Canada. 
 -  I’m interested in Web, Mobile and Game development. My favourite downtime thing is developing simple pure js web applications, you know, for fun c:
